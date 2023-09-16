@@ -1,0 +1,32 @@
+{
+    "workspace.library": [
+        "/home/bmusungu/.config/nvim",
+        "/home/bmusungu/.local/share/nvim/site",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/cmp-vsnip",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/lspkind.nvim",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/neo-tree.nvim",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/nui.nvim",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/nvim-dap",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/nvim-jdtls",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/nvim-window-picker",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/vim-vsnip",
+        "/usr/share/nvim/runtime",
+        "/usr/lib/x86_64-linux-gnu/nvim",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after",
+        "/home/bmusungu/.local/share/nvim/site/pack/packer/start/cmp-vsnip/after",
+        "${3rd}/luassert/library",
+        "${3rd}/lfs/library"
+    ],
+    "diagnostics.globals": [
+        "vim",
+        "lfs"
+    ]
+}
